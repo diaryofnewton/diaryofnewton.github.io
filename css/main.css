@@ -1751,7 +1751,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #b0db44;
+  background: #93dd66;
 }
 .feed-link,
 .chat {
@@ -2717,7 +2717,7 @@ body {
   color: #000;
 }
 #sidebar {
-  background: url("/images/boy.jpg");
+  background: rgba(0,0,0,0.8) none repeat scroll !important;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
